@@ -1,3 +1,7 @@
+## Desenvolvedores:
+**`Rodrigo Pereira de Almeida`**
+**`Alváro Nobrega`**
+
 # **🌎 GeoPredictor: Análise e Previsão Urbana Inteligente com IA**
 
 ![GeoPredictor](https://github.com/user-attachments/assets/0b1356e9-1ccc-46bc-957d-6ead3e8f993f)
