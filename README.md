@@ -1,6 +1,6 @@
 # **🌎 GeoPredictor: Análise e Previsão Urbana Inteligente com IA**
 
-<center> ![GeoPredictor](https://github.com/user-attachments/assets/0b1356e9-1ccc-46bc-957d-6ead3e8f993f)<center/>
+![GeoPredictor](https://github.com/user-attachments/assets/0b1356e9-1ccc-46bc-957d-6ead3e8f993f)
 ## **💡 Visão Geral do Projeto**
 
 O **GeoPredictor** é um inovador Software as a Service (SaaS) projetado para fornecer insights preditivos sobre padrões urbanos e ambientais em diversas cidades. Utilizando o poder do processamento de dados geoespaciais e temporais, combinado com a inteligência artificial generativa do Google Gemini (modelo `gemini-2.0-flash`), a ferramenta visa auxiliar gestores urbanos, profissionais de segurança, turismo e meio ambiente na tomada de decisões proativas e na otimização de recursos.
