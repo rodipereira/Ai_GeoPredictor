@@ -107,6 +107,7 @@ Com o ambiente virtual ativado e todos os arquivos configurados, execute o segui
 
 ```bash
 streamlit run app.py
+```
 
 ## **🖥️ Uso da Aplicação**
 
